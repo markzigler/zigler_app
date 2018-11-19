@@ -1,0 +1,28 @@
+/*Auth */
+//Login and update Profile
+export const SAVE_USER_SUCCESS = 'SAVE_USER_SUCCESS';
+//LOG_OUT
+export const LOG_OUT='LOG_OUT'
+/*App*/
+//DEVICE
+export const SET_DEVICE_ID = 'SET_DEVICE_ID';
+//CHANGE LOADING STATE
+export const HIDE_LOADER = 'HIDE_LOADER';
+export const SHOW_LOADER = 'SHOW_LOADER';
+//CHANGE LOADING STATE LIST
+export const HIDE_LOADER_LIST = 'HIDE_LOADER_LIST';
+export const SHOW_LOADER_LIST= 'SHOW_LOADER_LIST';
+//CHANGE REFRESHING STATE LIST
+export const HIDE_LOADER_REFRESHING = 'HIDE_LOADER_REFRESHING';
+export const SHOW_LOADER_REFRESHING= 'SHOW_LOADER_REFRESHING';
+//Set market list
+export const SET_MARKET_LIST = 'SET_MARKET_LIST';
+//Set portfolio list
+export const SET_PORTFOLIO_LIST = 'SET_PORTFOLIO_LIST';
+//Set orderhistory list
+export const SET_ORDER_HISTORY_LIST = 'SET_ORDER_HISTORY_LIST';
+//Get Share Detail
+export const GET_SHARE_DETAIL_BUY_SELL = 'GET_SHARE_DETAIL_BUY_SELL';
+
+
+
